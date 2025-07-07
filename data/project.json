@@ -15,8 +15,8 @@
   "project": {
     "github_org": "bartleyje",
     "is_private": false,
-    "title": "TEST",
-    "description": "TEST",
+    "title": "VMI Video Collection - Test",
+    "description": "This is a test of AVAnnotate with VMI's video collection.",
     "language": "en",
     "slug": "VMItest",
     "creator": "bartleyje",
@@ -29,8 +29,8 @@
       "tags": []
     },
     "created_at": "2025-07-07T16:47:40.732Z",
-    "updated_at": "2025-07-07T17:02:16.693Z",
-    "generate_pages_site": false
+    "updated_at": "2025-07-07T17:05:09.849Z",
+    "generate_pages_site": true
   },
   "annotations": {
     "9b1c71eb-530e-4245-8d9a-e0c9fb6f8ba6": {
