@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://bartleyje.github.io/VMItest/manifests/collection.json","type":"Collection","label":{"en":["TEST"]},"items":[{"id":"https://bartleyje.github.io/VMItest/manifests/test.json","type":"Manifest","label":{"en":["test"]}}]}
