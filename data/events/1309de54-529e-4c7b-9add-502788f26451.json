@@ -2,7 +2,8 @@
   "audiovisual_files": {
     "e1d822b4-e1de-45fe-b35d-45c4acf9fccd": {
       "label": "AV File 1",
-      "duration": 0
+      "duration": 0,
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -20,6 +21,9 @@
   "created_by": "bartleyje",
   "item_type": "Audio",
   "label": "Imported Event 1",
-  "updated_at": "2025-07-08T13:22:54.897Z",
-  "updated_by": "bartleyje"
+  "updated_at": "2025-07-08T13:23:26.778Z",
+  "updated_by": "bartleyje",
+  "av_file_order": [
+    "e1d822b4-e1de-45fe-b35d-45c4acf9fccd"
+  ]
 }
