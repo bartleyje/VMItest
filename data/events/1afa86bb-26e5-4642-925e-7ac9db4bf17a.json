@@ -3,7 +3,8 @@
     "650385f6-52f1-4cd3-8079-baa7806b87b4": {
       "label": "AV File 1",
       "duration": 0,
-      "file_type": "Video"
+      "file_type": "Video",
+      "file_url": " https://iiif.archive.org/iiif/vmi-new-market-30sec-promo/manifest.json"
     }
   },
   "auto_generate_web_page": true,
@@ -21,7 +22,7 @@
   "created_by": "bartleyje",
   "item_type": "Audio",
   "label": "Video - Internet Archive",
-  "updated_at": "2025-07-08T13:20:43.607Z",
+  "updated_at": "2025-07-08T13:21:33.858Z",
   "updated_by": "bartleyje",
   "av_file_order": [
     "650385f6-52f1-4cd3-8079-baa7806b87b4"
