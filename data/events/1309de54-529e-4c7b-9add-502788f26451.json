@@ -3,7 +3,8 @@
     "e1d822b4-e1de-45fe-b35d-45c4acf9fccd": {
       "label": "AV File 1",
       "duration": 0,
-      "file_type": "Video"
+      "file_type": "Video",
+      "file_url": "https://archive.org/details/vmi-new-market-30sec-promo"
     }
   },
   "auto_generate_web_page": true,
@@ -21,7 +22,7 @@
   "created_by": "bartleyje",
   "item_type": "Audio",
   "label": "Imported Event 1",
-  "updated_at": "2025-07-08T13:23:26.778Z",
+  "updated_at": "2025-07-08T13:24:46.268Z",
   "updated_by": "bartleyje",
   "av_file_order": [
     "e1d822b4-e1de-45fe-b35d-45c4acf9fccd"
